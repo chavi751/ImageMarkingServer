@@ -1,0 +1,9 @@
+D:\MIZRACHI\MarkingContracts\bin\Debug\netcoreapp3.1\MarkingContracts.deps.json
+D:\MIZRACHI\MarkingContracts\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\MarkingContracts\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\MarkingContracts\obj\Debug\netcoreapp3.1\MarkingContracts.csprojAssemblyReference.cache
+D:\MIZRACHI\MarkingContracts\obj\Debug\netcoreapp3.1\MarkingContracts.AssemblyInfoInputs.cache
+D:\MIZRACHI\MarkingContracts\obj\Debug\netcoreapp3.1\MarkingContracts.AssemblyInfo.cs
+D:\MIZRACHI\MarkingContracts\obj\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\MarkingContracts\obj\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\MarkingContracts\obj\Debug\netcoreapp3.1\MarkingContracts.csproj.CoreCompileInputs.cache

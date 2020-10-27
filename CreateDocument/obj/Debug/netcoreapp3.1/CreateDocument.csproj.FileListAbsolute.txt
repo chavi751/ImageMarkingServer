@@ -1,0 +1,12 @@
+D:\MIZRACHI\CreateDocument\bin\Debug\netcoreapp3.1\CreateDocument.deps.json
+D:\MIZRACHI\CreateDocument\bin\Debug\netcoreapp3.1\CreateDocument.dll
+D:\MIZRACHI\CreateDocument\obj\Debug\netcoreapp3.1\CreateDocument.AssemblyInfoInputs.cache
+D:\MIZRACHI\CreateDocument\obj\Debug\netcoreapp3.1\CreateDocument.AssemblyInfo.cs
+D:\MIZRACHI\CreateDocument\obj\Debug\netcoreapp3.1\CreateDocument.csprojAssemblyReference.cache
+D:\MIZRACHI\CreateDocument\bin\Debug\netcoreapp3.1\CreateDocument.pdb
+D:\MIZRACHI\CreateDocument\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\CreateDocument\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\CreateDocument\obj\Debug\netcoreapp3.1\CreateDocument.csproj.CopyComplete
+D:\MIZRACHI\CreateDocument\obj\Debug\netcoreapp3.1\CreateDocument.dll
+D:\MIZRACHI\CreateDocument\obj\Debug\netcoreapp3.1\CreateDocument.pdb
+D:\MIZRACHI\CreateDocument\obj\Debug\netcoreapp3.1\CreateDocument.csproj.CoreCompileInputs.cache

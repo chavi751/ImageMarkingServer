@@ -1,0 +1,12 @@
+D:\MIZRACHI\SignInService\bin\Debug\netcoreapp3.1\SignInService.deps.json
+D:\MIZRACHI\SignInService\bin\Debug\netcoreapp3.1\SignInService.dll
+D:\MIZRACHI\SignInService\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\SignInService\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\SignInService\obj\Debug\netcoreapp3.1\SignInService.csprojAssemblyReference.cache
+D:\MIZRACHI\SignInService\obj\Debug\netcoreapp3.1\SignInService.AssemblyInfoInputs.cache
+D:\MIZRACHI\SignInService\obj\Debug\netcoreapp3.1\SignInService.AssemblyInfo.cs
+D:\MIZRACHI\SignInService\obj\Debug\netcoreapp3.1\SignInService.csproj.CopyComplete
+D:\MIZRACHI\SignInService\obj\Debug\netcoreapp3.1\SignInService.csproj.CoreCompileInputs.cache
+D:\MIZRACHI\SignInService\bin\Debug\netcoreapp3.1\SignInService.pdb
+D:\MIZRACHI\SignInService\obj\Debug\netcoreapp3.1\SignInService.dll
+D:\MIZRACHI\SignInService\obj\Debug\netcoreapp3.1\SignInService.pdb

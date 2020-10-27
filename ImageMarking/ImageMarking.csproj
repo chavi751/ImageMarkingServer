@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Contracts" Version="1.0.6" />
+    <PackageReference Include="DI" Version="1.0.4" />
+    <PackageReference Include="OracleDAL" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Conection\Conection.csproj" />
+    <ProjectReference Include="..\MarkingContracts\MarkingContracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\Images\" />
+  </ItemGroup>
+
+
+</Project>

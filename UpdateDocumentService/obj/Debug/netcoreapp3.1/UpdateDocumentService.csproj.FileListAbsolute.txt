@@ -1,0 +1,12 @@
+D:\MIZRACHI\UpdateDocumentService\bin\Debug\netcoreapp3.1\UpdateDocumentService.deps.json
+D:\MIZRACHI\UpdateDocumentService\bin\Debug\netcoreapp3.1\UpdateDocumentService.dll
+D:\MIZRACHI\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.AssemblyInfoInputs.cache
+D:\MIZRACHI\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.AssemblyInfo.cs
+D:\MIZRACHI\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.csprojAssemblyReference.cache
+D:\MIZRACHI\UpdateDocumentService\bin\Debug\netcoreapp3.1\UpdateDocumentService.pdb
+D:\MIZRACHI\UpdateDocumentService\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\UpdateDocumentService\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.csproj.CoreCompileInputs.cache
+D:\MIZRACHI\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.csproj.CopyComplete
+D:\MIZRACHI\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.dll
+D:\MIZRACHI\UpdateDocumentService\obj\Debug\netcoreapp3.1\UpdateDocumentService.pdb

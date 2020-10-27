@@ -1,0 +1,12 @@
+D:\MIZRACHI\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.deps.json
+D:\MIZRACHI\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.dll
+D:\MIZRACHI\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csprojAssemblyReference.cache
+D:\MIZRACHI\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.AssemblyInfoInputs.cache
+D:\MIZRACHI\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.AssemblyInfo.cs
+D:\MIZRACHI\CreateShareService\bin\Debug\netcoreapp3.1\CreateShareService.pdb
+D:\MIZRACHI\CreateShareService\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\CreateShareService\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csproj.CoreCompileInputs.cache
+D:\MIZRACHI\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.csproj.CopyComplete
+D:\MIZRACHI\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.dll
+D:\MIZRACHI\CreateShareService\obj\Debug\netcoreapp3.1\CreateShareService.pdb

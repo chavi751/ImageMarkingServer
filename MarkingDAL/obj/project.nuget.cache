@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MX9FcHwDGboe492zeipjFpVjUs7lDvBPLbtfetlvWs/W7gvNsS9BbVFo2eHoqYCRp37du3oqPvkGSg+87rtM1A==",
+  "success": true,
+  "projectFilePath": "D:\\MIZRACHI\\MarkingDAL\\MarkingDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\contracts\\1.0.6\\contracts.1.0.6.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\dalcontracts\\1.0.0\\dalcontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.8\\microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\oracledal\\2.0.0\\oracledal.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,156 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CreateShareService/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.6",
+          "MarkingContracts": "1.0.0",
+          "OracleDAL": "2.0.0"
+        },
+        "runtime": {
+          "CreateShareService.dll": {}
+        }
+      },
+      "Contracts/1.0.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/DIContract.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      },
+      "DALContracts/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/DALContracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/3.1.8": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.8",
+          "System.IO.Pipelines": "4.7.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42106"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.8": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.8.0",
+            "fileVersion": "3.100.820.42004"
+          }
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "2.0.12.0",
+            "fileVersion": "2.0.12.0"
+          }
+        }
+      },
+      "OracleDAL/2.0.0": {
+        "dependencies": {
+          "DALContracts": "1.0.0",
+          "ODP.NetCore": "2.0.12"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OracleDAL.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "System.IO.Pipelines/4.7.2": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "4.0.2.1",
+            "fileVersion": "4.700.20.21406"
+          }
+        }
+      },
+      "MarkingContracts/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.6",
+          "Microsoft.AspNetCore.Http.Features": "3.1.8",
+          "OracleDAL": "2.0.0"
+        },
+        "runtime": {
+          "MarkingContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateShareService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contracts/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B7hkMvMU5ko/AcVNicgBPzkAjXZKdNfxfiDYbsqEAf1i8WE1GAZFUY5o679Igd1Dsnq5fAkekc4FEtVCxezNdQ==",
+      "path": "contracts/1.0.6",
+      "hashPath": "contracts.1.0.6.nupkg.sha512"
+    },
+    "DALContracts/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oNMpdCpskotlGino0EphapjhBORXrdT3f1pZfEZsvWNPQB/78U63suMKnEUBhRltyk+yi/Gp66i2ZG7omxYu5g==",
+      "path": "dalcontracts/1.0.0",
+      "hashPath": "dalcontracts.1.0.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Features/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hPBe3ATzZxUqA6QaIKf9IVQa//Eake3jeqfwHyq95n0fe7j7v6hWc9QGGWQquA3psN7epz029jjTS4zvFLC32g==",
+      "path": "microsoft.aspnetcore.http.features/3.1.8",
+      "hashPath": "microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XcIoXQhT0kwnEhOKv/LmpWR6yF6QWmBTy9Fcsz4aHuCOgTJ7Zd23ELtUA4BfwlYoFlSedavS+vURz9tNekd44g==",
+      "path": "microsoft.extensions.primitives/3.1.8",
+      "hashPath": "microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+    },
+    "ODP.NetCore/2.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "path": "odp.netcore/2.0.12",
+      "hashPath": "odp.netcore.2.0.12.nupkg.sha512"
+    },
+    "OracleDAL/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aB17Ppez80Rq7iKh4gIIBH6unLjv9tSrTlz/FA7pwRhkfM4ohvjUqqmx290mYSceVkVE6ld5ml81lUDJRiTFrg==",
+      "path": "oracledal/2.0.0",
+      "hashPath": "oracledal.2.0.0.nupkg.sha512"
+    },
+    "System.IO.Pipelines/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rGIIhoY3lUdn9rWeuGdgeZZ0P+SpJ1wZI5g8TnXqgvuhFgUP7iP9Nt5FZebYInQZQxqnwjPxdYYBE5l/8PJmqQ==",
+      "path": "system.io.pipelines/4.7.2",
+      "hashPath": "system.io.pipelines.4.7.2.nupkg.sha512"
+    },
+    "MarkingContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

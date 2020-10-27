@@ -1,0 +1,12 @@
+D:\MIZRACHI\Conection\bin\Debug\netcoreapp3.1\Conection.deps.json
+D:\MIZRACHI\Conection\bin\Debug\netcoreapp3.1\Conection.dll
+D:\MIZRACHI\Conection\bin\Debug\netcoreapp3.1\Conection.pdb
+D:\MIZRACHI\Conection\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\Conection\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\Conection\obj\Debug\netcoreapp3.1\Conection.csprojAssemblyReference.cache
+D:\MIZRACHI\Conection\obj\Debug\netcoreapp3.1\Conection.AssemblyInfoInputs.cache
+D:\MIZRACHI\Conection\obj\Debug\netcoreapp3.1\Conection.AssemblyInfo.cs
+D:\MIZRACHI\Conection\obj\Debug\netcoreapp3.1\Conection.csproj.CopyComplete
+D:\MIZRACHI\Conection\obj\Debug\netcoreapp3.1\Conection.dll
+D:\MIZRACHI\Conection\obj\Debug\netcoreapp3.1\Conection.pdb
+D:\MIZRACHI\Conection\obj\Debug\netcoreapp3.1\Conection.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+D:\MIZRACHI\GetSharedDocumentsService\bin\Debug\netcoreapp3.1\GetSharedDocumentsService.deps.json
+D:\MIZRACHI\GetSharedDocumentsService\bin\Debug\netcoreapp3.1\GetSharedDocumentsService.dll
+D:\MIZRACHI\GetSharedDocumentsService\obj\Debug\netcoreapp3.1\GetSharedDocumentsService.AssemblyInfoInputs.cache
+D:\MIZRACHI\GetSharedDocumentsService\obj\Debug\netcoreapp3.1\GetSharedDocumentsService.AssemblyInfo.cs
+D:\MIZRACHI\GetSharedDocumentsService\obj\Debug\netcoreapp3.1\GetSharedDocumentsService.csprojAssemblyReference.cache
+D:\MIZRACHI\GetSharedDocumentsService\bin\Debug\netcoreapp3.1\GetSharedDocumentsService.pdb
+D:\MIZRACHI\GetSharedDocumentsService\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\GetSharedDocumentsService\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\GetSharedDocumentsService\obj\Debug\netcoreapp3.1\GetSharedDocumentsService.csproj.CoreCompileInputs.cache
+D:\MIZRACHI\GetSharedDocumentsService\obj\Debug\netcoreapp3.1\GetSharedDocumentsService.csproj.CopyComplete
+D:\MIZRACHI\GetSharedDocumentsService\obj\Debug\netcoreapp3.1\GetSharedDocumentsService.dll
+D:\MIZRACHI\GetSharedDocumentsService\obj\Debug\netcoreapp3.1\GetSharedDocumentsService.pdb

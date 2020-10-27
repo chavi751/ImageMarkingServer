@@ -1,0 +1,12 @@
+D:\MIZRACHI\GetAllDocumentsService\bin\Debug\netcoreapp3.1\GetAllDocumentsService.deps.json
+D:\MIZRACHI\GetAllDocumentsService\bin\Debug\netcoreapp3.1\GetAllDocumentsService.dll
+D:\MIZRACHI\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.AssemblyInfoInputs.cache
+D:\MIZRACHI\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.AssemblyInfo.cs
+D:\MIZRACHI\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.csprojAssemblyReference.cache
+D:\MIZRACHI\GetAllDocumentsService\bin\Debug\netcoreapp3.1\GetAllDocumentsService.pdb
+D:\MIZRACHI\GetAllDocumentsService\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\GetAllDocumentsService\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.csproj.CoreCompileInputs.cache
+D:\MIZRACHI\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.csproj.CopyComplete
+D:\MIZRACHI\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.dll
+D:\MIZRACHI\GetAllDocumentsService\obj\Debug\netcoreapp3.1\GetAllDocumentsService.pdb

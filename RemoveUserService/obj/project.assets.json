@@ -1,0 +1,283 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contracts/1.0.6": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/DIContract.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/DIContract.dll": {}
+        }
+      },
+      "DALContracts/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/DALContracts.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/DALContracts.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/3.1.8": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.8",
+          "System.IO.Pipelines": "4.7.2"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.8": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {}
+        }
+      },
+      "ODP.NetCore/2.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {}
+        }
+      },
+      "OracleDAL/2.0.0": {
+        "type": "package",
+        "dependencies": {
+          "DALContracts": "1.0.0",
+          "ODP.NetCore": "2.0.12"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/OracleDAL.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/OracleDAL.dll": {}
+        }
+      },
+      "System.IO.Pipelines/4.7.2": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/System.IO.Pipelines.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {}
+        }
+      },
+      "MarkingContracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Contracts": "1.0.6",
+          "Microsoft.AspNetCore.Http.Features": "3.1.8",
+          "OracleDAL": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MarkingContracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarkingContracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contracts/1.0.6": {
+      "sha512": "B7hkMvMU5ko/AcVNicgBPzkAjXZKdNfxfiDYbsqEAf1i8WE1GAZFUY5o679Igd1Dsnq5fAkekc4FEtVCxezNdQ==",
+      "type": "package",
+      "path": "contracts/1.0.6",
+      "files": [
+        ".nupkg.metadata",
+        "contracts.1.0.6.nupkg.sha512",
+        "contracts.nuspec",
+        "lib/netcoreapp3.1/DIContract.dll"
+      ]
+    },
+    "DALContracts/1.0.0": {
+      "sha512": "oNMpdCpskotlGino0EphapjhBORXrdT3f1pZfEZsvWNPQB/78U63suMKnEUBhRltyk+yi/Gp66i2ZG7omxYu5g==",
+      "type": "package",
+      "path": "dalcontracts/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "dalcontracts.1.0.0.nupkg.sha512",
+        "dalcontracts.nuspec",
+        "lib/netcoreapp3.1/DALContracts.dll"
+      ]
+    },
+    "Microsoft.AspNetCore.Http.Features/3.1.8": {
+      "sha512": "hPBe3ATzZxUqA6QaIKf9IVQa//Eake3jeqfwHyq95n0fe7j7v6hWc9QGGWQquA3psN7epz029jjTS4zvFLC32g==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.http.features/3.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Http.Features.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
+        "microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512",
+        "microsoft.aspnetcore.http.features.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Primitives/3.1.8": {
+      "sha512": "XcIoXQhT0kwnEhOKv/LmpWR6yF6QWmBTy9Fcsz4aHuCOgTJ7Zd23ELtUA4BfwlYoFlSedavS+vURz9tNekd44g==",
+      "type": "package",
+      "path": "microsoft.extensions.primitives/3.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
+        "microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+        "microsoft.extensions.primitives.nuspec"
+      ]
+    },
+    "ODP.NetCore/2.0.12": {
+      "sha512": "JO0XH6/SYOFdxurhxXCa+uMThj4jYNVEOEELPjTcadzVGn0/f3evA6p1cwUoI7IRxDhBGtJc2wDi+cAxUvz76Q==",
+      "type": "package",
+      "path": "odp.netcore/2.0.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Oracle.ManagedDataAccess.dll",
+        "odp.netcore.2.0.12.nupkg.sha512",
+        "odp.netcore.nuspec"
+      ]
+    },
+    "OracleDAL/2.0.0": {
+      "sha512": "aB17Ppez80Rq7iKh4gIIBH6unLjv9tSrTlz/FA7pwRhkfM4ohvjUqqmx290mYSceVkVE6ld5ml81lUDJRiTFrg==",
+      "type": "package",
+      "path": "oracledal/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netcoreapp3.1/OracleDAL.dll",
+        "oracledal.2.0.0.nupkg.sha512",
+        "oracledal.nuspec"
+      ]
+    },
+    "System.IO.Pipelines/4.7.2": {
+      "sha512": "rGIIhoY3lUdn9rWeuGdgeZZ0P+SpJ1wZI5g8TnXqgvuhFgUP7iP9Nt5FZebYInQZQxqnwjPxdYYBE5l/8PJmqQ==",
+      "type": "package",
+      "path": "system.io.pipelines/4.7.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.IO.Pipelines.dll",
+        "lib/net461/System.IO.Pipelines.xml",
+        "lib/netcoreapp3.0/System.IO.Pipelines.dll",
+        "lib/netcoreapp3.0/System.IO.Pipelines.xml",
+        "lib/netstandard1.3/System.IO.Pipelines.dll",
+        "lib/netstandard1.3/System.IO.Pipelines.xml",
+        "lib/netstandard2.0/System.IO.Pipelines.dll",
+        "lib/netstandard2.0/System.IO.Pipelines.xml",
+        "ref/net461/System.IO.Pipelines.dll",
+        "ref/net461/System.IO.Pipelines.xml",
+        "ref/netcoreapp2.0/System.IO.Pipelines.dll",
+        "ref/netcoreapp2.0/System.IO.Pipelines.xml",
+        "system.io.pipelines.4.7.2.nupkg.sha512",
+        "system.io.pipelines.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "MarkingContracts/1.0.0": {
+      "type": "project",
+      "path": "../MarkingContracts/MarkingContracts.csproj",
+      "msbuildProject": "../MarkingContracts/MarkingContracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Contracts >= 1.0.6",
+      "MarkingContracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\MIZRACHI\\RemoveUserService\\RemoveUserService.csproj",
+      "projectName": "RemoveUserService",
+      "projectPath": "D:\\MIZRACHI\\RemoveUserService\\RemoveUserService.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\MIZRACHI\\RemoveUserService\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\MIZRACHI\\package": {},
+        "http://packagesource": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\MIZRACHI\\MarkingContracts\\MarkingContracts.csproj": {
+              "projectPath": "D:\\MIZRACHI\\MarkingContracts\\MarkingContracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Contracts": {
+            "target": "Package",
+            "version": "[1.0.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

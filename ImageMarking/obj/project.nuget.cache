@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjlZW5wCE2H6RbSxVJHJtQzn/PXEq8gsq/XsmoDlA0G9M8eJYVFeJ2fI2kHSvSl/WT/VS2voa8Ce3VnrI5H2pw==",
+  "success": true,
+  "projectFilePath": "D:\\MIZRACHI\\ImageMarking\\ImageMarking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\contracts\\1.0.6\\contracts.1.0.6.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\dalcontracts\\1.0.0\\dalcontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\di\\1.0.4\\di.1.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\dicontract\\1.0.4\\dicontract.1.0.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.8\\microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\oracledal\\2.0.0\\oracledal.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

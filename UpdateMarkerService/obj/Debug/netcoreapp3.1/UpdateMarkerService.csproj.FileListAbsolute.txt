@@ -1,0 +1,12 @@
+D:\MIZRACHI\UpdateMarkerService\bin\Debug\netcoreapp3.1\UpdateMarkerService.deps.json
+D:\MIZRACHI\UpdateMarkerService\bin\Debug\netcoreapp3.1\UpdateMarkerService.dll
+D:\MIZRACHI\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.AssemblyInfoInputs.cache
+D:\MIZRACHI\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.AssemblyInfo.cs
+D:\MIZRACHI\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.csprojAssemblyReference.cache
+D:\MIZRACHI\UpdateMarkerService\bin\Debug\netcoreapp3.1\UpdateMarkerService.pdb
+D:\MIZRACHI\UpdateMarkerService\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\UpdateMarkerService\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.csproj.CoreCompileInputs.cache
+D:\MIZRACHI\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.csproj.CopyComplete
+D:\MIZRACHI\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.dll
+D:\MIZRACHI\UpdateMarkerService\obj\Debug\netcoreapp3.1\UpdateMarkerService.pdb

@@ -1,0 +1,12 @@
+D:\MIZRACHI\RemoveUserService\bin\Debug\netcoreapp3.1\RemoveUserService.deps.json
+D:\MIZRACHI\RemoveUserService\bin\Debug\netcoreapp3.1\RemoveUserService.dll
+D:\MIZRACHI\RemoveUserService\obj\Debug\netcoreapp3.1\RemoveUserService.csprojAssemblyReference.cache
+D:\MIZRACHI\RemoveUserService\obj\Debug\netcoreapp3.1\RemoveUserService.AssemblyInfoInputs.cache
+D:\MIZRACHI\RemoveUserService\obj\Debug\netcoreapp3.1\RemoveUserService.AssemblyInfo.cs
+D:\MIZRACHI\RemoveUserService\bin\Debug\netcoreapp3.1\RemoveUserService.pdb
+D:\MIZRACHI\RemoveUserService\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\RemoveUserService\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\RemoveUserService\obj\Debug\netcoreapp3.1\RemoveUserService.csproj.CoreCompileInputs.cache
+D:\MIZRACHI\RemoveUserService\obj\Debug\netcoreapp3.1\RemoveUserService.csproj.CopyComplete
+D:\MIZRACHI\RemoveUserService\obj\Debug\netcoreapp3.1\RemoveUserService.dll
+D:\MIZRACHI\RemoveUserService\obj\Debug\netcoreapp3.1\RemoveUserService.pdb

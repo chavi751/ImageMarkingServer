@@ -1,0 +1,12 @@
+D:\MIZRACHI\MarkingDAL\bin\Debug\netcoreapp3.1\MarkingDAL.deps.json
+D:\MIZRACHI\MarkingDAL\bin\Debug\netcoreapp3.1\MarkingDAL.dll
+D:\MIZRACHI\MarkingDAL\obj\Debug\netcoreapp3.1\MarkingDAL.csprojAssemblyReference.cache
+D:\MIZRACHI\MarkingDAL\obj\Debug\netcoreapp3.1\MarkingDAL.AssemblyInfoInputs.cache
+D:\MIZRACHI\MarkingDAL\obj\Debug\netcoreapp3.1\MarkingDAL.AssemblyInfo.cs
+D:\MIZRACHI\MarkingDAL\bin\Debug\netcoreapp3.1\MarkingContracts.dll
+D:\MIZRACHI\MarkingDAL\bin\Debug\netcoreapp3.1\MarkingContracts.pdb
+D:\MIZRACHI\MarkingDAL\obj\Debug\netcoreapp3.1\MarkingDAL.csproj.CopyComplete
+D:\MIZRACHI\MarkingDAL\bin\Debug\netcoreapp3.1\MarkingDAL.pdb
+D:\MIZRACHI\MarkingDAL\obj\Debug\netcoreapp3.1\MarkingDAL.dll
+D:\MIZRACHI\MarkingDAL\obj\Debug\netcoreapp3.1\MarkingDAL.pdb
+D:\MIZRACHI\MarkingDAL\obj\Debug\netcoreapp3.1\MarkingDAL.csproj.CoreCompileInputs.cache

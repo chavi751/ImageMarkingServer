@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4jQ/l/hc1tTuqSybQ/qbtPRD6h08cvt1RuY7uWjMeCgqV/XOWXJu/ecRvSiD9c1NxbaG/i2MF8QmVX9yzpTzQ==",
+  "success": true,
+  "projectFilePath": "D:\\MIZRACHI\\GetDocumentService\\GetDocumentService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\contracts\\1.0.6\\contracts.1.0.6.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\dalcontracts\\1.0.0\\dalcontracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.8\\microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\odp.netcore\\2.0.12\\odp.netcore.2.0.12.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\oracledal\\2.0.0\\oracledal.2.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
